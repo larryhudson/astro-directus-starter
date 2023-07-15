@@ -1,5 +1,12 @@
 # Astro Starter Kit: Minimal
 
+## To do list
+- Add `docker-compose.yml` with Directus, Redis, Postgres
+- Add Dockerfile for building Astro app
+- Add utility functions for querying Directus from Astro app
+- Add Bull for background jobs
+
+
 ```
 npm create astro@latest -- --template minimal
 ```

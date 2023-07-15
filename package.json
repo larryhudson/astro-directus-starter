@@ -10,6 +10,16 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^2.3.2"
+    "@astrojs/node": "^5.1.2",
+    "@directus/sdk": "^10.3.3",
+    "@extractus/article-extractor": "^7.2.14",
+    "astro": "^2.4.2",
+    "bull": "^4.10.4",
+    "bullmq": "^3.12.1",
+    "form-data": "^4.0.0",
+    "html-entities": "^2.3.3",
+    "html-to-text": "^9.0.5",
+    "p-map": "^6.0.0",
+    "podcast": "^2.0.1"
   }
 }
